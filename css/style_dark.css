@@ -11,7 +11,7 @@ b, i,
 dl, dt, dd, ol, ul, li,
 fieldset, form, label, legend,
 table, caption, tbody, tfoot, thead, tr, th, td,
-article, aside, canvas, details, figcaption, figure, 
+article, aside, canvas, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section, summary,
 time, mark, audio, video {
     margin:0;
@@ -38,7 +38,7 @@ body {
 }
 
 article,aside,details,figcaption,figure,
-footer,header,hgroup,menu,nav,section { 
+footer,header,hgroup,menu,nav,section {
     display:block;
 }
 
@@ -161,8 +161,8 @@ figure img {
         border-bottom-right-radius: 4px;
     }
 
-.nav-tabs>li.active>a, 
-.nav-tabs>li.active>a:hover, 
+.nav-tabs>li.active>a,
+.nav-tabs>li.active>a:hover,
 .nav-tabs>li.active>a:focus {
     z-index: 100;
     color: #fff;
@@ -210,7 +210,7 @@ h4 {
             border-radius: 3px;
 }
 
-.btn:hover, 
+.btn:hover,
 .btn:focus {
     color: #fff;
 }
@@ -354,7 +354,7 @@ section {
 /* Intro Section */
 
 .intro {
-    background-image: url(../images/introslider/slide2.jpg);
+    /*background-image: url(../images/introslider/slide2.jpg);*/
     background-attachment: fixed;
     -webkit-background-size: cover;
             background-size: cover;
@@ -496,7 +496,7 @@ section {
     .service:hover {
         margin-top: -10px;
     }
- 
+
 .service i {
     font-size: 42px;
     margin-bottom: 30px;
@@ -729,7 +729,7 @@ ul.extra-features i{
 
 .customers .customer-slider .item:hover img {
     opacity: 1;
-} 
+}
 
 
 /* Download Section */
